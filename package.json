@@ -1,17 +1,18 @@
 {
     "name": "vscode-jsp",
     "displayName": "Java Server Pages (JSP)",
-    "description": "(unmaintained) JSP language support for Visual Studio Code, ported from TextMate's JSP bundle.",
-    "version": "0.0.3",
-    "publisher": "pthorsson",
+    "description": "Java Template Language(JTL) JSP language support for Visual Studio Code, ported from TextMate's JSP bundle.",
+    "version": "0.0.31",
+    "publisher": "tlintrami",
+    "repository": "https://github.com/doctorZurk1973/vscode-jsp.git",
     "icon": "ext-icon.png",
     "author": {
-        "name": "Patrik Thorsson",
-        "url": "https://github.com/pthorsson",
-        "email": "p.thorsson@gmail.com"
+        "name": "Tommaso Lintrami",
+        "url": "https://github.com/doctorZurk1973",
+        "email": "tommaso.lintrami@dshare.com"
     },
     "engines": {
-        "vscode": "0.10.x"
+        "vscode": "1.78.0"
     },
     "categories": [
         "Languages"
