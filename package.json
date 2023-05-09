@@ -1,5 +1,5 @@
 {
-    "name": "vscode-jsp",
+    "name": "vscode-jtl-jsp",
     "displayName": "Java Server Pages (JSP)",
     "description": "Java Template Language(JTL) JSP language support for Visual Studio Code, ported from TextMate's JSP bundle.",
     "version": "0.0.31",
